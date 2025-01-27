@@ -2,7 +2,8 @@
     "name": "gwharton/module-disable-routes",
     "type": "magento2-module",
     "require": {
-        "magento/framework": "*"
+        "magento/framework": "*",
+        "magento/module-customer": "*"
     },
     "config": {
         "sort-packages": true
